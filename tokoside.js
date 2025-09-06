@@ -591,7 +591,7 @@ var _0x657c = [
   _0x330678(0x28f),
   "innerText",
   _0x330678(0x249),
-  "<style>body{background:#fff}#nlic\x20span{font-size:50px}#nlic{z-index:99999;right:10px;bottom:10px;text-align:center;background:#e42727;border:5px\x20solid\x20#444;color:#fff;padding:20px;font-family:monospace;border-radius:10px}#nlic\x20h4{font-size:20px}</style><div\x20id=\x22nlic\x22><h4>Activate\x20Templates</h4><p>Contact\x20Admin\x20www.idblanter.com\x20to\x20activate\x20Templates.</p><span\x20id=\x22c-mes\x22>18</span></div>",
+  "",
   _0x330678(0x29e),
   "c-mes",
   _0x1e9e2e(0x29f, "IrGn"),
